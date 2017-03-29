@@ -1,0 +1,63 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+body{
+}
+
+header{
+	padding: 20px;
+	margin: 20px;
+	color: grey;
+	background: lightgrey;
+	height: 100px;
+}
+
+section{
+	padding: 20px;
+	margin: 20px;
+}
+
+#second {
+	background-color: lightgrey;
+	padding: 20px;
+	margin: 20px;
+	color: grey;
+	height: 100px;
+}
+
+#sectionn {
+	background-color: lightgrey;
+	width: 330px;
+	color: grey;
+	float: left;
+	height: 300px;
+}
+
+article {
+	background-color: grey;
+	color: lightgrey;
+	padding: 20px;
+}
+
+#aside {
+	background-color: lightgrey;
+	width: 40%;
+	color: grey;
+	float: right;
+	height: 300px;
+	}
+
+footer {
+	clear: both;
+	background-color: lightgrey;
+	color: grey;
+	margin-bottom: 30px;
+	height: 100px;
+}
+
+
+
